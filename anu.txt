@@ -16,6 +16,6 @@ learning is veery easy
 not attended qa sessions
 goutham kumar
 cat cat has brown eye 
-cat is animal
-cat drinks milk
+dog is animal
+dog drinks milk
  
